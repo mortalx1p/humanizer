@@ -1,6 +1,0 @@
-{
-  "name": "script-humanizer",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Humanizes clean AI-written short-form scripts into casual creator-style voiceover takes via Groq."
-}
